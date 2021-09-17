@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tephtelka
+- 👀 I’m interested in creating applications for customizing Windows 10 and cybersecurity
+- 🌱 I’m currently learning Python so that I can pass the 1st stage of the National Technology Olympiad
+- 💞️ I’m looking to collaborate on with real professionals in my field so that they can teach me a lot of interesting things
+- 📫 you can contact me in VK (here is the link https://vk.com/id448922272)
